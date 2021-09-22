@@ -17,7 +17,7 @@ related:
 
 ## Why some people seek financial support
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
@@ -119,7 +119,7 @@ Finally, sometimes open source projects put bounties on issues that you might co
 
 Beyond arrangements for individual contributors, sometimes projects raise money from companies, individuals, or others to fund ongoing work.
 
-Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing into new features or ideas.
+Organizational funding might go towards paying current contributors, covering the costs of running the project (such as hosting fees), or investing in new features or ideas.
 
 As open source's popularity increases, finding funding for projects is still experimental, but there are a few common options available.
 
@@ -140,7 +140,7 @@ Depending on your project, you may be able to charge for commercial support, hos
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
 * **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
-Some popular projects, like [npm](https://github.com/npm/npm) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
+Some popular projects, like [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
 
 ### Apply for grant funding
 

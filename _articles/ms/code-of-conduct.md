@@ -37,7 +37,7 @@ Selain menyampaikan harapan anda, kod tingkah laku menerangkan perkara berikut:
 
 Di mana sahaja anda boleh, gunakan seni sebelumnya. [Contributor Covenant](https://contributor-covenant.org/) adalah tatakelakuan drop-in yang digunakan oleh lebih dari 40,000 projek sumber terbuka, termasuk Kubernetes, Rails, dan Swift.
 
-[Django Code of Conduct](https://www.djangoproject.com/conduct/) dan [Citizen Code of Conduct](http://citizencodeofconduct.org/) juga merupakan dua contoh tatakelakuan yang baik.
+[Django Code of Conduct](https://www.djangoproject.com/conduct/) dan [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) juga merupakan dua contoh tatakelakuan yang baik.
 
 Letakkan fail CODE_OF_CONDUCT di direktori root projek anda, dan jadikan ia dapat dilihat oleh komuniti anda dengan menghubungkannya dari fail CONTRIBUTING atau README anda.
 
@@ -46,7 +46,7 @@ Letakkan fail CODE_OF_CONDUCT di direktori root projek anda, dan jadikan ia dapa
 <aside markdown="1" class="pquote">
   Kod tingkah laku yang tidak (atau tidak dapat) ditegakkan lebih buruk daripada tidak ada kod tingkah laku sama sekali: ia menghantar mesej bahawa nilai-nilai dalam kod tingkah laku sebenarnya tidak penting atau dihormati dalam komuniti anda.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 

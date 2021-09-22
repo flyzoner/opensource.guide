@@ -31,7 +31,7 @@ Adem&aacute;s de comunicar tus expectativas, un c&oacute;digo de conducta descri
 
 Siempre que sea posible, haga uso del art. El [Contributor Covenant](https://www.contributor-covenant.org/) es un c&oacute;digo de conducta usado por m&aacute;s de 40,000 proyectos de software libre, incluyendo Kubernetes, Rails, and Swift.
 
-El [Django Code of Conduct](https://www.djangoproject.com/conduct/) y el [Citizen Code of Conduct](http://citizencodeofconduct.org/) son tambi&eacute;n dos ejemplos de buenos c&oacute;digos de conducta.
+El [Django Code of Conduct](https://www.djangoproject.com/conduct/) y el [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) son tambi&eacute;n dos ejemplos de buenos c&oacute;digos de conducta.
 
 Ubica un archivo CODIGO_DE_CONDUCTA en el directorio ra&iacute;z de tu proyecto, y enl&aacute;zalo desde tu LEEME, as&iacute; el mismo se encuentra visible a tu comunidad.
 
@@ -40,7 +40,7 @@ Ubica un archivo CODIGO_DE_CONDUCTA en el directorio ra&iacute;z de tu proyecto,
 <aside markdown="1" class="pquote">
   Un c&oacute;digo de conducta que no es (o no puede) ser aplicado, es incluso peor que no tener un c&oacute;digo de conducta: Esto demostrar&iacute;a que los valores en el c&oacute;digo de conducta no son importantes o no son respetados en tu comunidad.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
